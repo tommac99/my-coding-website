@@ -1,0 +1,18 @@
+.banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)),
+    url('../../images/bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 100px 40px 200px 40px;
+  color: #ffffff;
+}
+
+.banner__title {
+  font-weight: 900;
+}
+
+.banner__subtitle {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
